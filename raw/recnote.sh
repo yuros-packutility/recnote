@@ -1,5 +1,6 @@
 #!/bin/env bash
 
+set -e
 
 #--[1] checking using pacman contrib
 
