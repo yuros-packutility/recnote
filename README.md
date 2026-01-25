@@ -1,5 +1,10 @@
 # recnote
 Package system management and notification  
 
-/ support
+# support
 - hyprland
+
+# dependencies
+## arch linux
+- notify-send
+- pacman-cotrib
