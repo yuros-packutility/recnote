@@ -8,6 +8,7 @@ function recnote_checks() {
 
 }
 
+
 #--[2] send notif when update available
 
 function recnote_notife_false() {
